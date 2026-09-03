@@ -9,7 +9,6 @@ Minecraft 1.21.1 on NeoForge.
 - NeoForge 21.1.219
 - Create 6.0.9
 - Sable 1.0.5 and Sable Companion 1.4.2
-- Veil 3.4.1
 - Create Aeronautics 1.0.2 (bundled build dependency in `libs/`)
 
 ## Build
