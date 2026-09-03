@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "create_the_air_wars:block/c-75",
+    "particle": "create_the_air_wars:block/c-75",
+    "0": "create_the_air_wars:block/c-75"
+  },
+  "render_type": "cutout"
+}

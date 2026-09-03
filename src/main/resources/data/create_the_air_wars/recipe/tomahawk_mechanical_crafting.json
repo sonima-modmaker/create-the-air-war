@@ -1,0 +1,43 @@
+{
+  "type": "create:mechanical_crafting",
+  "accept_mirrored": false,
+  "category": "misc",
+  "pattern": [
+    " A ",
+    "BCB",
+    "DED",
+    "FEF",
+    "FGF",
+    "BHB"
+  ],
+  "key": {
+    "A": {
+      "item": "create_the_air_wars:activator"
+    },
+    "B": {
+      "item": "create_the_air_wars:titaniumingot"
+    },
+    "C": {
+      "item": "create_the_air_wars:ampilifier"
+    },
+    "D": {
+      "item": "create_the_air_wars:wires"
+    },
+    "E": {
+      "item": "create_the_air_wars:bigexplzv"
+    },
+    "F": {
+      "item": "create_the_air_wars:titaniumsheet"
+    },
+    "G": {
+      "item": "create_the_air_wars:chip"
+    },
+    "H": {
+      "item": "create_the_air_wars:rocketengine"
+    }
+  },
+  "result": {
+    "id": "create_the_air_wars:tomahawk",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "create_the_air_wars:titanium_ore",
+    "create_the_air_wars:deepslatetitaniumore",
+    "create_the_air_wars:sulfur_ore",
+    "create_the_air_wars:deepdlatesulfurore",
+    "create_the_air_wars:amalgam_ore",
+    "create_the_air_wars:deep_state_amalgam_ore",
+    "create_the_air_wars:test",
+    "create_the_air_wars:titaniumblock"
+  ]
+}

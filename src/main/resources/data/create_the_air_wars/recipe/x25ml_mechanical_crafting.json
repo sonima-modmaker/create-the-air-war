@@ -1,0 +1,43 @@
+{
+  "type": "create:mechanical_crafting",
+  "accept_mirrored": true,
+  "category": "misc",
+  "pattern": [
+    " A ",
+    "BCB",
+    "DED",
+    "BFB",
+    "BGB",
+    "HBH"
+  ],
+  "key": {
+    "A": {
+      "item": "create_the_air_wars:activator"
+    },
+    "B": {
+      "item": "create_the_air_wars:titaniumingot"
+    },
+    "C": {
+      "item": "create_the_air_wars:bigexplzv"
+    },
+    "D": {
+      "item": "create_the_air_wars:titaniumsheet"
+    },
+    "E": {
+      "item": "create_the_air_wars:chip"
+    },
+    "F": {
+      "item": "create_the_air_wars:ampilifier"
+    },
+    "G": {
+      "item": "create_the_air_wars:wires"
+    },
+    "H": {
+      "item": "create_the_air_wars:rocketengine"
+    }
+  },
+  "result": {
+    "id": "create_the_air_wars:x25ml",
+    "count": 1
+  }
+}

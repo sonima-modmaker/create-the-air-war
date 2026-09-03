@@ -1,0 +1,29 @@
+{
+  "type": "create:mechanical_crafting",
+  "accept_mirrored": true,
+  "category": "misc",
+  "pattern": [
+    "ABBA",
+    "BCDB",
+    "BDCB",
+    "ABBA"
+  ],
+  "key": {
+    "A": {
+      "item": "create_the_air_wars:titaniumsheet"
+    },
+    "B": {
+      "item": "create_the_air_wars:titaniumingot"
+    },
+    "C": {
+      "item": "create:sturdy_sheet"
+    },
+    "D": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "id": "create_the_air_wars:heattrap",
+    "count": 1
+  }
+}

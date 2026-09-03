@@ -1,0 +1,27 @@
+{
+  "type": "create:mechanical_crafting",
+  "accept_mirrored": true,
+  "category": "misc",
+  "pattern": [
+    " A ",
+    "BCB",
+    "BCB",
+    "BCB",
+    "BBB"
+  ],
+  "key": {
+    "A": {
+      "item": "create_the_air_wars:activator"
+    },
+    "B": {
+      "item": "create_the_air_wars:titaniumsheet"
+    },
+    "C": {
+      "item": "create_the_air_wars:bigexplzv"
+    }
+  },
+  "result": {
+    "id": "create_the_air_wars:sc_250",
+    "count": 1
+  }
+}

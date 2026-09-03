@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "create_the_air_wars:block/deepdlatesulfurore"
+    },
+    "facing=east": {
+      "model": "create_the_air_wars:block/deepdlatesulfurore",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "create_the_air_wars:block/deepdlatesulfurore",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "create_the_air_wars:block/deepdlatesulfurore",
+      "y": 270
+    }
+  }
+}

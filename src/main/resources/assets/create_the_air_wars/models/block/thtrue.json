@@ -1,0 +1,9 @@
+{
+  "parent": "create_the_air_wars:custom/tomahawk_true",
+  "textures": {
+    "all": "create_the_air_wars:block/tomahawk",
+    "particle": "create_the_air_wars:block/tomahawk",
+    "0": "create_the_air_wars:block/tomahawk"
+  },
+  "render_type": "cutout"
+}

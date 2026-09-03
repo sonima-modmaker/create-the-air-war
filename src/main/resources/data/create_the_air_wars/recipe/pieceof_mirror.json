@@ -1,0 +1,15 @@
+{
+  "type": "create:crushing",
+  "processingTime": 250,
+  "ingredients": [
+    {
+      "item": "create_the_air_wars:mirror"
+    }
+  ],
+  "results": [
+    {
+      "id": "create_the_air_wars:pieceof_mirror",
+      "count": 4
+    }
+  ]
+}

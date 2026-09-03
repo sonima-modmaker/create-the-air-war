@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "create_the_air_wars:block/rim_7active"
+    },
+    "facing=east": {
+      "model": "create_the_air_wars:block/rim_7active",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "create_the_air_wars:block/rim_7active",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "create_the_air_wars:block/rim_7active",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "create_the_air_wars:custom/heat_trap",
+  "textures": {
+    "all": "create_the_air_wars:block/heat_trap",
+    "particle": "create_the_air_wars:block/heat_trap",
+    "0": "create_the_air_wars:block/heat_trap"
+  },
+  "render_type": "cutout"
+}

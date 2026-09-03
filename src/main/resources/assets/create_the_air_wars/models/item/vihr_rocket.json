@@ -1,0 +1,24 @@
+{
+  "parent": "create_the_air_wars:block/vihr_rocket",
+  "display": {
+    "thirdperson_righthand": {
+      "scale": [0.53, 0.53, 0.53]
+    },
+    "thirdperson_lefthand": {
+      "scale": [0.53, 0.53, 0.53]
+    },
+    "firstperson_righthand": {
+      "rotation": [65, 5, 0],
+      "scale": [0.53, 0.53, 0.53]
+    },
+    "firstperson_lefthand": {
+      "rotation": [65, 5, 0],
+      "scale": [0.53, 0.53, 0.53]
+    },
+    "gui": {
+      "rotation": [23, -151, 3],
+      "translation": [0.75, -1, 0],
+      "scale": [0.82, 0.82, 0.82]
+    }
+  }
+}

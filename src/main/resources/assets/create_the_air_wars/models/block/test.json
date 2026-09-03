@@ -1,0 +1,10 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "front": "minecraft:block/magma",
+    "side": "minecraft:block/tinted_glass",
+    "top": "minecraft:block/tinted_glass",
+    "bottom": "minecraft:block/tinted_glass"
+  },
+  "render_type": "translucent"
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "create_the_air_wars:custom/machinegun",
+  "textures": {
+    "0": "create_the_air_wars:block/machinegun",
+    "particle": "create_the_air_wars:block/machinegun"
+  }
+}

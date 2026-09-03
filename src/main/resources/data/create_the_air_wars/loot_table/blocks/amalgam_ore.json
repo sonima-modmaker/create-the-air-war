@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "create_the_air_wars:blocks/amalgam_ore",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "create_the_air_wars:rough_amalgam"
+        }
+      ],
+      "functions": [
+        {
+          "function": "minecraft:set_count",
+          "count": {
+            "type": "minecraft:uniform",
+            "min": 1.0,
+            "max": 2.0
+          }
+        }
+      ]
+    }
+  ]
+}

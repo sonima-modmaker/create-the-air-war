@@ -1,0 +1,9 @@
+Explosion particle textures and explosion sounds imported from MTSOfficialPack.
+Source: https://github.com/DonBruce64/MTSOfficialPack
+Source revision: a157eef94d525b7411504264c40e2abab53c10cc
+Original project by DonBruce64 and MTSOfficialPack contributors.
+
+Particle movement, lifetime, placement and distance-audio behavior adapted from
+MinecraftTransportSimulator and the MTSOfficialPack projectile definitions.
+Engine source: https://github.com/DonBruce64/MinecraftTransportSimulator
+Engine source revision: cd9cfb8fe74dbcc426eb830f14822adf7402261f

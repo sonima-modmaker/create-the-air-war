@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "create_the_air_wars:pieceof_mirror"
+    },
+    "b": {
+      "item": "create_the_air_wars:wires"
+    },
+    "c": {
+      "item": "create_the_air_wars:titaniumsheet"
+    },
+    "d": {
+      "item": "create_the_air_wars:titaniumingot"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "create_the_air_wars:ampilifier"
+  }
+}

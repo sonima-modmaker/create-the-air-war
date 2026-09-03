@@ -1,0 +1,9 @@
+{
+  "parent": "create_the_air_wars:custom/fab-3000true",
+  "textures": {
+    "all": "create_the_air_wars:block/fab_3000",
+    "particle": "create_the_air_wars:block/fab_3000",
+    "0": "create_the_air_wars:block/fab_3000"
+  },
+  "render_type": "solid"
+}

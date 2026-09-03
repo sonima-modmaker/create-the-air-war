@@ -1,0 +1,35 @@
+{
+  "type": "create:mechanical_crafting",
+  "accept_mirrored": true,
+  "category": "misc",
+  "pattern": [
+    "ABA",
+    "ACA",
+    "DED",
+    " F "
+  ],
+  "key": {
+    "A": {
+      "item": "create:copper_sheet"
+    },
+    "B": {
+      "item": "create:fluid_pipe"
+    },
+    "C": {
+      "item": "create:fluid_tank"
+    },
+    "D": {
+      "item": "create_the_air_wars:titaniumingot"
+    },
+    "E": {
+      "item": "create:display_link"
+    },
+    "F": {
+      "item": "create_the_air_wars:rocketengine"
+    }
+  },
+  "result": {
+    "id": "create_the_air_wars:rocket_engine",
+    "count": 1
+  }
+}

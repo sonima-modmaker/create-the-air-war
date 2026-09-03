@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "aba",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "create_the_air_wars:titaniumingot"
+    },
+    "b": {
+      "item": "minecraft:tnt"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "create_the_air_wars:explosive"
+  }
+}

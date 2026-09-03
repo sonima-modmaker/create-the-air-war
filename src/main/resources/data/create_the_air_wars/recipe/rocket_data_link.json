@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "AAA",
+    "BCD",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "create_the_air_wars:titaniumsheet"
+    },
+    "B": {
+      "item": "create_the_air_wars:display"
+    },
+    "C": {
+      "item": "create:display_link"
+    },
+    "D": {
+      "item": "create_the_air_wars:wires"
+    }
+  },
+  "result": {
+    "id": "create_the_air_wars:rocket_data_link",
+    "count": 1
+  }
+}

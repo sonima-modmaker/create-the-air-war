@@ -1,0 +1,14 @@
+{
+  "type": "create:crushing",
+  "processingTime": 250,
+  "ingredients": [
+    {
+      "item": "create_the_air_wars:raw_sulfur"
+    }
+  ],
+  "results": [
+    {
+      "id": "create_the_air_wars:crashedsulfur"
+    }
+  ]
+}

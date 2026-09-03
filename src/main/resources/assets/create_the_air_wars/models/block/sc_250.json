@@ -1,0 +1,9 @@
+{
+  "parent": "create_the_air_wars:custom/sc250",
+  "textures": {
+    "all": "create_the_air_wars:block/sc250",
+    "particle": "create_the_air_wars:block/sc250",
+    "0": "create_the_air_wars:block/sc250"
+  },
+  "render_type": "cutout"
+}

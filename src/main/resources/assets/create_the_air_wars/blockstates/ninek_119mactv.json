@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "create_the_air_wars:block/ninek_119mactv"
+    },
+    "facing=east": {
+      "model": "create_the_air_wars:block/ninek_119mactv",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "create_the_air_wars:block/ninek_119mactv",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "create_the_air_wars:block/ninek_119mactv",
+      "y": 270
+    }
+  }
+}

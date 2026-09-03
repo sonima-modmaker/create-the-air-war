@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "powered=false": { "model": "create_the_air_wars:block/gyro_stabilizer_base_deactive" },
+    "powered=true":  { "model": "create_the_air_wars:block/gyro_stabilizer_base_active" }
+  }
+}

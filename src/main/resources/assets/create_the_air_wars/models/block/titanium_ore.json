@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "create_the_air_wars:block/titanium_ore",
+    "up": "create_the_air_wars:block/titanium_ore",
+    "north": "create_the_air_wars:block/titanium_ore",
+    "east": "create_the_air_wars:block/titanium_ore",
+    "south": "create_the_air_wars:block/titanium_ore",
+    "west": "create_the_air_wars:block/titanium_ore",
+    "particle": "create_the_air_wars:block/titanium_ore"
+  },
+  "render_type": "solid"
+}

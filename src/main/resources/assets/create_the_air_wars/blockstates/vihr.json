@@ -1,0 +1,33 @@
+{
+  "variants": {
+    "facing=down,horizontal_facing=north": { "model": "create_the_air_wars:block/vihr_world_base", "y": 180 },
+    "facing=down,horizontal_facing=south": { "model": "create_the_air_wars:block/vihr_world_base" },
+    "facing=down,horizontal_facing=west": { "model": "create_the_air_wars:block/vihr_world_base", "y": 270 },
+    "facing=down,horizontal_facing=east": { "model": "create_the_air_wars:block/vihr_world_base", "y": 90 },
+
+    "facing=up,horizontal_facing=north": { "model": "create_the_air_wars:block/vihr_world_base", "x": 180, "y": 180 },
+    "facing=up,horizontal_facing=south": { "model": "create_the_air_wars:block/vihr_world_base", "x": 180 },
+    "facing=up,horizontal_facing=west": { "model": "create_the_air_wars:block/vihr_world_base", "x": 180, "y": 270 },
+    "facing=up,horizontal_facing=east": { "model": "create_the_air_wars:block/vihr_world_base", "x": 180, "y": 90 },
+
+    "facing=north,horizontal_facing=north": { "model": "create_the_air_wars:block/vihr_world_base", "x": 90 },
+    "facing=north,horizontal_facing=south": { "model": "create_the_air_wars:block/vihr_world_base", "x": 90 },
+    "facing=north,horizontal_facing=west": { "model": "create_the_air_wars:block/vihr_world_base", "x": 90 },
+    "facing=north,horizontal_facing=east": { "model": "create_the_air_wars:block/vihr_world_base", "x": 90 },
+
+    "facing=south,horizontal_facing=north": { "model": "create_the_air_wars:block/vihr_world_base", "x": 90, "y": 180 },
+    "facing=south,horizontal_facing=south": { "model": "create_the_air_wars:block/vihr_world_base", "x": 90, "y": 180 },
+    "facing=south,horizontal_facing=west": { "model": "create_the_air_wars:block/vihr_world_base", "x": 90, "y": 180 },
+    "facing=south,horizontal_facing=east": { "model": "create_the_air_wars:block/vihr_world_base", "x": 90, "y": 180 },
+
+    "facing=west,horizontal_facing=north": { "model": "create_the_air_wars:block/vihr_world_base", "x": 90, "y": 270 },
+    "facing=west,horizontal_facing=south": { "model": "create_the_air_wars:block/vihr_world_base", "x": 90, "y": 270 },
+    "facing=west,horizontal_facing=west": { "model": "create_the_air_wars:block/vihr_world_base", "x": 90, "y": 270 },
+    "facing=west,horizontal_facing=east": { "model": "create_the_air_wars:block/vihr_world_base", "x": 90, "y": 270 },
+
+    "facing=east,horizontal_facing=north": { "model": "create_the_air_wars:block/vihr_world_base", "x": 90, "y": 90 },
+    "facing=east,horizontal_facing=south": { "model": "create_the_air_wars:block/vihr_world_base", "x": 90, "y": 90 },
+    "facing=east,horizontal_facing=west": { "model": "create_the_air_wars:block/vihr_world_base", "x": 90, "y": 90 },
+    "facing=east,horizontal_facing=east": { "model": "create_the_air_wars:block/vihr_world_base", "x": 90, "y": 90 }
+  }
+}

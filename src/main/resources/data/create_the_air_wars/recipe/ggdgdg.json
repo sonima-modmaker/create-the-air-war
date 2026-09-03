@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "create_the_air_wars:explosive"
+    }
+  },
+  "result": {
+    "count": 2,
+    "id": "create_the_air_wars:miniexplzv"
+  }
+}

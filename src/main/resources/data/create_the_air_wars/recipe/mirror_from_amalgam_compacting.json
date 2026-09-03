@@ -1,0 +1,16 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "type": "neoforge:single",
+      "amount": 1000,
+      "fluid": "create_the_air_wars:amalgam_bucket"
+    }
+  ],
+  "results": [
+    {
+      "id": "create_the_air_wars:mirror",
+      "count": 4
+    }
+  ]
+}

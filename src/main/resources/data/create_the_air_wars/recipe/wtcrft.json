@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    " e "
+  ],
+  "key": {
+    "a": {
+      "item": "create_the_air_wars:wires"
+    },
+    "b": {
+      "item": "create_the_air_wars:antenna"
+    },
+    "c": {
+      "item": "create_the_air_wars:titaniumsheet"
+    },
+    "d": {
+      "item": "create_the_air_wars:chip"
+    },
+    "e": {
+      "item": "create_the_air_wars:ampilifier"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "create_the_air_wars:wt"
+  }
+}

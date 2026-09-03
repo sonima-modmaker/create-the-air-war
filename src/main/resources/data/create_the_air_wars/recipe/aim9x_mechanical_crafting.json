@@ -1,0 +1,39 @@
+{
+  "type": "create:mechanical_crafting",
+  "accept_mirrored": true,
+  "category": "misc",
+  "pattern": [
+    " A ",
+    "BCB",
+    "BDB",
+    "BEB",
+    "FGF"
+  ],
+  "key": {
+    "A": {
+      "item": "create_the_air_wars:activator"
+    },
+    "B": {
+      "item": "create_the_air_wars:titaniumsheet"
+    },
+    "C": {
+      "item": "create_the_air_wars:explosive"
+    },
+    "D": {
+      "item": "create_the_air_wars:chip"
+    },
+    "E": {
+      "item": "create_the_air_wars:wires"
+    },
+    "F": {
+      "item": "create_the_air_wars:titaniumingot"
+    },
+    "G": {
+      "item": "create_the_air_wars:rocketengine"
+    }
+  },
+  "result": {
+    "id": "create_the_air_wars:aim9x",
+    "count": 1
+  }
+}

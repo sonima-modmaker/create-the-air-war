@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b",
+    "c"
+  ],
+  "key": {
+    "a": {
+      "item": "create_the_air_wars:activator"
+    },
+    "b": {
+      "item": "create_the_air_wars:explosive"
+    },
+    "c": {
+      "item": "create_the_air_wars:rocketengine"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "create_the_air_wars:c_3k"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "type": "create:mixing",
+  "heat_requirement": "heated",
+  "ingredients": [
+    {
+      "type": "neoforge:single",
+      "amount": 250,
+      "fluid": "minecraft:lava"
+    },
+    {
+      "item": "create_the_air_wars:crushed_amalgam"
+    },
+    {
+      "item": "create_the_air_wars:crushed_amalgam"
+    },
+    {
+      "item": "create_the_air_wars:crushed_amalgam"
+    },
+    {
+      "item": "create_the_air_wars:crushed_amalgam"
+    },
+    {
+      "item": "create_the_air_wars:crushed_amalgam"
+    },
+    {
+      "item": "create_the_air_wars:crushed_amalgam"
+    },
+    {
+      "item": "create_the_air_wars:crushed_amalgam"
+    },
+    {
+      "item": "create_the_air_wars:crushed_amalgam"
+    },
+    {
+      "item": "create_the_air_wars:crushed_amalgam"
+    },
+    {
+      "item": "create_the_air_wars:crushed_amalgam"
+    }
+  ],
+  "results": [
+    {
+      "id": "create_the_air_wars:amalgam_bucket",
+      "amount": 1000
+    }
+  ]
+}

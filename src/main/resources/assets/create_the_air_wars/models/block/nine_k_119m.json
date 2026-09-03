@@ -1,0 +1,9 @@
+{
+  "parent": "create_the_air_wars:custom/9k119m",
+  "textures": {
+    "all": "create_the_air_wars:block/9k119m",
+    "particle": "create_the_air_wars:block/9k119m",
+    "0": "create_the_air_wars:block/9k119m"
+  },
+  "render_type": "cutout"
+}

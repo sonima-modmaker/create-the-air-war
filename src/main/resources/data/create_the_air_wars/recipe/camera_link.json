@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "A  ",
+    "B  ",
+    "   "
+  ],
+  "key": {
+    "A": {
+      "item": "create_the_air_wars:titaniumnugget"
+    },
+    "B": {
+      "item": "create_the_air_wars:wires"
+    }
+  },
+  "result": {
+    "id": "create_the_air_wars:camera_link",
+    "count": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ttt",
+    "idi",
+    " r "
+  ],
+  "key": {
+    "t": {
+      "item": "create_the_air_wars:titaniumsheet"
+    },
+    "i": {
+      "item": "minecraft:iron_ingot"
+    },
+    "d": {
+      "item": "minecraft:dispenser"
+    },
+    "r": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "create_the_air_wars:machinegun"
+  }
+}

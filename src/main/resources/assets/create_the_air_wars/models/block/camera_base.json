@@ -1,0 +1,45 @@
+{
+  "credit": "Made with Blockbench",
+  "textures": {
+    "1": "create_the_air_wars:block/camera",
+    "particle": "create_the_air_wars:block/camera"
+  },
+  "elements": [
+    {
+      "from": [3, 2, 3],
+      "to": [13, 6, 13],
+      "faces": {
+        "north": {"uv": [4, 2, 9, 4], "texture": "#1"},
+        "east": {"uv": [4, 2, 9, 4], "texture": "#1"},
+        "south": {"uv": [4, 2, 9, 4], "texture": "#1"},
+        "west": {"uv": [4, 2, 9, 4], "texture": "#1"},
+        "up": {"uv": [4, 9, 9, 14], "rotation": 90, "texture": "#1"},
+        "down": {"uv": [4, 4, 9, 9], "rotation": 90, "texture": "#1"}
+      }
+    },
+    {
+      "from": [2, 5, 6],
+      "to": [4, 12, 10],
+      "faces": {
+        "north": {"uv": [10, 1, 9, 4.5], "texture": "#1"},
+        "east": {"uv": [0, 0, 4, 7], "texture": "#1"},
+        "south": {"uv": [9, 1, 10, 4.5], "texture": "#1"},
+        "west": {"uv": [10, 1, 12, 4.5], "texture": "#1"},
+        "up": {"uv": [12, 1, 10, 0], "rotation": 90, "texture": "#1"},
+        "down": {"uv": [10, 0, 12, 1], "rotation": 90, "texture": "#1"}
+      }
+    },
+    {
+      "from": [12, 5, 6],
+      "to": [14, 12, 10],
+      "faces": {
+        "north": {"uv": [9, 1, 10, 4.5], "texture": "#1"},
+        "east": {"uv": [10, 1, 12, 4.5], "texture": "#1"},
+        "south": {"uv": [10, 1, 9, 4.5], "texture": "#1"},
+        "west": {"uv": [0, 0, 4, 7], "texture": "#1"},
+        "up": {"uv": [10, 0, 12, 1], "rotation": 90, "texture": "#1"},
+        "down": {"uv": [10, 1, 12, 0], "rotation": 90, "texture": "#1"}
+      }
+    }
+  ]
+}

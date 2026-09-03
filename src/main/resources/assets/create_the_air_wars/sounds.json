@@ -1,0 +1,761 @@
+{
+  "explotion": {
+    "sounds": [
+      {
+        "name": "create_the_air_wars:rocket_explosion_close",
+        "type": "event"
+      }
+    ]
+  },
+  "polet": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "create_the_air_wars:polet",
+        "stream": true
+      }
+    ]
+  },
+  "vilet": {
+    "sounds": [
+      {
+        "name": "create_the_air_wars:rocketmp3-94928",
+        "stream": false
+      }
+    ]
+  },
+  "fdgdg": {
+    "sounds": [
+      {
+        "name": "create_the_air_wars:rocket_explosion_medium",
+        "type": "event"
+      }
+    ]
+  },
+  "vzriv": {
+    "sounds": [
+      {
+        "name": "create_the_air_wars:rocket_explosion_medium",
+        "type": "event"
+      }
+    ]
+  },
+  "zapusk": {
+    "sounds": [
+      {
+        "name": "create_the_air_wars:zapusk-snaryada-iz-raketnoy-puskovoy-ustanovki",
+        "stream": false
+      }
+    ]
+  },
+  "vzrivc-8": {
+    "sounds": [
+      {
+        "name": "create_the_air_wars:rocket_explosion_far",
+        "type": "event"
+      }
+    ]
+  },
+  "fire_autocannon": {
+    "sounds": [
+      {
+        "name": "create_the_air_wars:fire_autocannon",
+        "stream": false
+      }
+    ]
+  },
+  "fire_big_cannon": {
+    "sounds": [
+      {
+        "name": "create_the_air_wars:rocket_explosion_medium",
+        "type": "event"
+      }
+    ]
+  },
+  "shellexp1": {
+    "category": "neutral",
+    "sounds": [
+      "create_the_air_wars:shellexp1"
+    ]
+  },
+  "shellexp2": {
+    "category": "neutral",
+    "sounds": [
+      "create_the_air_wars:shellexp2"
+    ]
+  },
+  "shellex3": {
+    "category": "neutral",
+    "sounds": [
+      "create_the_air_wars:shellex3"
+    ]
+  },
+  "shell_flying": {
+    "sounds": [
+      {
+        "name": "create_the_air_wars:shell_flying",
+        "stream": false
+      }
+    ]
+  },
+  "greanateactv": {
+    "sounds": [
+      {
+        "name": "create_the_air_wars:cheku-vyidergivayut-brosayut-granatu-27938",
+        "stream": false
+      }
+    ]
+  },
+  "explgrenade": {
+    "sounds": [
+      {
+        "name": "create_the_air_wars:rocket_explosion_medium",
+        "type": "event"
+      }
+    ]
+  },
+  "rocket_explosion_close": {
+    "category": "neutral",
+    "sounds": [
+      "create_the_air_wars:rocket_explosion_close",
+      "create_the_air_wars:rocket_explosion_close_01",
+      "create_the_air_wars:rocket_explosion_close_02",
+      "create_the_air_wars:rocket_explosion_close_03",
+      "create_the_air_wars:aa_explosion_close_01",
+      "create_the_air_wars:aa_explosion_close_02",
+      "create_the_air_wars:aa_explosion_close_03"
+    ]
+  },
+  "rocket_explosion_close_01": {
+    "category": "neutral",
+    "sounds": [
+      "create_the_air_wars:aa_explosion_close_01"
+    ]
+  },
+  "rocket_explosion_close_02": {
+    "category": "neutral",
+    "sounds": [
+      "create_the_air_wars:aa_explosion_close_02"
+    ]
+  },
+  "rocket_explosion_close_03": {
+    "category": "neutral",
+    "sounds": [
+      "create_the_air_wars:aa_explosion_close_03"
+    ]
+  },
+  "rocket_explosion_medium": {
+    "category": "neutral",
+    "sounds": [
+      "create_the_air_wars:rocket_explosion_medium",
+      "create_the_air_wars:rocket_explosion_medium_01",
+      "create_the_air_wars:rocket_explosion_medium_02",
+      "create_the_air_wars:rocket_explosion_medium_03",
+      "create_the_air_wars:rocket_explosion_medium_04",
+      "create_the_air_wars:rocket_explosion_medium_05",
+      "create_the_air_wars:rocket_explosion_medium_06",
+      "create_the_air_wars:aa_explosion_01",
+      "create_the_air_wars:aa_explosion_02",
+      "create_the_air_wars:aa_explosion_03",
+      "create_the_air_wars:aa_explosion_04",
+      "create_the_air_wars:aa_explosion_05",
+      "create_the_air_wars:aa_explosion_06"
+    ]
+  },
+  "rocket_explosion_medium_01": {
+    "category": "neutral",
+    "sounds": [
+      "create_the_air_wars:aa_explosion_01"
+    ]
+  },
+  "rocket_explosion_medium_02": {
+    "category": "neutral",
+    "sounds": [
+      "create_the_air_wars:aa_explosion_02"
+    ]
+  },
+  "rocket_explosion_medium_03": {
+    "category": "neutral",
+    "sounds": [
+      "create_the_air_wars:aa_explosion_03"
+    ]
+  },
+  "rocket_explosion_medium_04": {
+    "category": "neutral",
+    "sounds": [
+      "create_the_air_wars:aa_explosion_04"
+    ]
+  },
+  "rocket_explosion_medium_05": {
+    "category": "neutral",
+    "sounds": [
+      "create_the_air_wars:aa_explosion_05"
+    ]
+  },
+  "rocket_explosion_medium_06": {
+    "category": "neutral",
+    "sounds": [
+      "create_the_air_wars:aa_explosion_06"
+    ]
+  },
+  "rocket_explosion_medium_01_s": {
+    "category": "neutral",
+    "sounds": [
+      "create_the_air_wars:aa_explosion_01_s"
+    ]
+  },
+  "rocket_explosion_medium_02_s": {
+    "category": "neutral",
+    "sounds": [
+      "create_the_air_wars:aa_explosion_02_s"
+    ]
+  },
+  "rocket_explosion_medium_03_s": {
+    "category": "neutral",
+    "sounds": [
+      "create_the_air_wars:aa_explosion_03_s"
+    ]
+  },
+  "rocket_explosion_medium_04_s": {
+    "category": "neutral",
+    "sounds": [
+      "create_the_air_wars:aa_explosion_04_s"
+    ]
+  },
+  "rocket_explosion_medium_05_s": {
+    "category": "neutral",
+    "sounds": [
+      "create_the_air_wars:aa_explosion_05_s"
+    ]
+  },
+  "rocket_explosion_medium_07_s": {
+    "category": "neutral",
+    "sounds": [
+      "create_the_air_wars:aa_explosion_07_s"
+    ]
+  },
+  "rocket_explosion_medium_08_s": {
+    "category": "neutral",
+    "sounds": [
+      "create_the_air_wars:aa_explosion_08_s"
+    ]
+  },
+  "rocket_explosion_medium_09_s": {
+    "category": "neutral",
+    "sounds": [
+      "create_the_air_wars:aa_explosion_09_s"
+    ]
+  },
+  "rocket_explosion_medium_10_s": {
+    "category": "neutral",
+    "sounds": [
+      "create_the_air_wars:aa_explosion_10_s"
+    ]
+  },
+  "rocket_explosion_far": {
+    "category": "neutral",
+    "sounds": [
+      "create_the_air_wars:rocket_explosion_far",
+      "create_the_air_wars:rocket_explosion_far_01",
+      "create_the_air_wars:rocket_explosion_far_02",
+      "create_the_air_wars:rocket_explosion_far_03",
+      "create_the_air_wars:rocket_explosion_far_04",
+      "create_the_air_wars:rocket_explosion_far_05",
+      "create_the_air_wars:aa_explosion_01_s_far",
+      "create_the_air_wars:aa_explosion_02_s_far",
+      "create_the_air_wars:aa_explosion_03_s_far",
+      "create_the_air_wars:aa_explosion_04_s_far",
+      "create_the_air_wars:aa_explosion_05_s_far"
+    ]
+  },
+  "rocket_explosion_far_01": {
+    "category": "neutral",
+    "sounds": [
+      "create_the_air_wars:aa_explosion_01_s_far"
+    ]
+  },
+  "rocket_explosion_far_02": {
+    "category": "neutral",
+    "sounds": [
+      "create_the_air_wars:aa_explosion_02_s_far"
+    ]
+  },
+  "rocket_explosion_far_03": {
+    "category": "neutral",
+    "sounds": [
+      "create_the_air_wars:aa_explosion_03_s_far"
+    ]
+  },
+  "rocket_explosion_far_04": {
+    "category": "neutral",
+    "sounds": [
+      "create_the_air_wars:aa_explosion_04_s_far"
+    ]
+  },
+  "rocket_explosion_far_05": {
+    "category": "neutral",
+    "sounds": [
+      "create_the_air_wars:aa_explosion_05_s_far"
+    ]
+  },
+  "rocket_explosion_far_07": {
+    "category": "neutral",
+    "sounds": [
+      "create_the_air_wars:aa_explosion_07_s_far"
+    ]
+  },
+  "rocket_explosion_far_08": {
+    "category": "neutral",
+    "sounds": [
+      "create_the_air_wars:aa_explosion_08_s_far"
+    ]
+  },
+  "rocket_explosion_far_09": {
+    "category": "neutral",
+    "sounds": [
+      "create_the_air_wars:aa_explosion_09_s_far"
+    ]
+  },
+  "rocket_explosion_far_10": {
+    "category": "neutral",
+    "sounds": [
+      "create_the_air_wars:aa_explosion_10_s_far"
+    ]
+  },
+  "12-7mm_gun_loop": {
+    "sounds": [
+      {
+        "name": "create_the_air_wars:12-7mm_gun_loop",
+        "stream": false
+      }
+    ]
+  },
+  "12-7mm_gun_lastshot": {
+    "sounds": [
+      {
+        "name": "create_the_air_wars:12-7mm_gun_lastshot",
+        "stream": false
+      }
+    ]
+  },
+  "bullet_passby": {
+    "sounds": [
+      {
+        "name": "create_the_air_wars:bullet_passby_08",
+        "stream": false
+      },
+      {
+        "name": "create_the_air_wars:bullet_passby_10",
+        "stream": false
+      },
+      {
+        "name": "create_the_air_wars:bullet_passby_11",
+        "stream": false
+      },
+      {
+        "name": "create_the_air_wars:bullet_passby_12",
+        "stream": false
+      }
+    ]
+  },
+  "tomahawk_flight": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "create_the_air_wars:tomahawk_flight",
+        "stream": true
+      }
+    ]
+  },
+  "search": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "create_the_air_wars:search",
+        "stream": true
+      }
+    ]
+  },
+  "lock": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "create_the_air_wars:lock",
+        "stream": true
+      }
+    ]
+  },
+  "sonar_sound": {
+    "sounds": [
+      {
+        "name": "create_the_air_wars:effekt-sonara-sonar-sound-fx-29228",
+        "stream": false
+      }
+    ]
+  },
+  "rocket_engine_idle": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "create_the_air_wars:rocket_engine_idle",
+        "stream": true
+      }
+    ]
+  },
+  "rocket_engine_throttle": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "create_the_air_wars:rocket_engine_throttle",
+        "stream": true
+      }
+    ]
+  },
+  "gun_12_7mm_lastshot": {
+    "sounds": [
+      {
+        "name": "create_the_air_wars:12-7mm_gun_lastshot",
+        "stream": false
+      }
+    ]
+  },
+  "gun_12_7mm_loop": {
+    "sounds": [
+      {
+        "name": "create_the_air_wars:12-7mm_gun_loop",
+        "stream": false
+      }
+    ]
+  },
+  "rocket_fly": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "create_the_air_wars:polet",
+        "stream": true
+      },
+      {
+        "name": "create_the_air_wars:rocket_fly",
+        "stream": true
+      },
+      {
+        "name": "create_the_air_wars:rocket-launch-sfx-253937_mp3cut.net",
+        "stream": true
+      }
+    ]
+  },
+  "mts_rocketboom_close": {
+    "sounds": [
+      "create_the_air_wars:mts_rocketboom0",
+      "create_the_air_wars:mts_rocketboom1",
+      "create_the_air_wars:mts_rocketboom2",
+      "create_the_air_wars:mts_rocketboom3"
+    ]
+  },
+  "mts_rocketboom_distant": {
+    "sounds": [
+      "create_the_air_wars:mts_rocketboom_distant0",
+      "create_the_air_wars:mts_rocketboom_distant1",
+      "create_the_air_wars:mts_rocketboom_distant2",
+      "create_the_air_wars:mts_rocketboom_distant3"
+    ]
+  },
+  "mts_explosion_close": {
+    "sounds": [
+      "create_the_air_wars:mts_explosion1",
+      "create_the_air_wars:mts_explosion2",
+      "create_the_air_wars:mts_explosion3",
+      "create_the_air_wars:mts_explosion4"
+    ]
+  },
+  "mts_explosion_distant": {
+    "sounds": [
+      "create_the_air_wars:mts_explosion_distant",
+      "create_the_air_wars:mts_explosion_distant2",
+      "create_the_air_wars:mts_explosion_distant3",
+      "create_the_air_wars:mts_explosion_distant4"
+    ]
+  },
+  "mts_heavy_explosion_close": {
+    "sounds": [
+      "create_the_air_wars:mts_explosion_heavy",
+      "create_the_air_wars:mts_explosion_heavy1"
+    ]
+  },
+  "mts_heavy_explosion_distant": {
+    "sounds": [
+      "create_the_air_wars:mts_explosion_distant_heavy",
+      "create_the_air_wars:mts_explosion_distant_heavy1",
+      "create_the_air_wars:mts_explosion_distant_heavy2"
+    ]
+  },
+  "shell_fly": {
+    "sounds": [
+      {
+        "attenuation_distance": 96,
+        "stream": true,
+        "name": "create_the_air_wars:shell_fly"
+      }
+    ]
+  },
+  "mts_exact_bomb_whistle": {
+    "sounds": [
+      "create_the_air_wars:mts_exact_bomb_whistle"
+    ]
+  },
+  "mts_exact_bomblet_close0": {
+    "sounds": [
+      "create_the_air_wars:mts_exact_bomblet_close0"
+    ]
+  },
+  "mts_exact_bomblet_close1": {
+    "sounds": [
+      "create_the_air_wars:mts_exact_bomblet_close1"
+    ]
+  },
+  "mts_exact_bomblet_close2": {
+    "sounds": [
+      "create_the_air_wars:mts_exact_bomblet_close2"
+    ]
+  },
+  "mts_exact_bomblet_close3": {
+    "sounds": [
+      "create_the_air_wars:mts_exact_bomblet_close3"
+    ]
+  },
+  "mts_exact_bomblet_close4": {
+    "sounds": [
+      "create_the_air_wars:mts_exact_bomblet_close4"
+    ]
+  },
+  "mts_exact_bomblet_close5": {
+    "sounds": [
+      "create_the_air_wars:mts_exact_bomblet_close5"
+    ]
+  },
+  "mts_exact_bomblet_distant0": {
+    "sounds": [
+      "create_the_air_wars:mts_exact_bomblet_distant0"
+    ]
+  },
+  "mts_exact_bomblet_distant1": {
+    "sounds": [
+      "create_the_air_wars:mts_exact_bomblet_distant1"
+    ]
+  },
+  "mts_exact_bomblet_distant2": {
+    "sounds": [
+      "create_the_air_wars:mts_exact_bomblet_distant2"
+    ]
+  },
+  "mts_exact_bomblet_distant3": {
+    "sounds": [
+      "create_the_air_wars:mts_exact_bomblet_distant3"
+    ]
+  },
+  "mts_exact_crashfire": {
+    "sounds": [
+      "create_the_air_wars:mts_exact_crashfire"
+    ]
+  },
+  "mts_exact_debrissettle_dirtsmall0": {
+    "sounds": [
+      "create_the_air_wars:mts_exact_debrissettle_dirtsmall0"
+    ]
+  },
+  "mts_exact_debrissettle_dirtsmall1": {
+    "sounds": [
+      "create_the_air_wars:mts_exact_debrissettle_dirtsmall1"
+    ]
+  },
+  "mts_exact_debrissettle_dirtsmall2": {
+    "sounds": [
+      "create_the_air_wars:mts_exact_debrissettle_dirtsmall2"
+    ]
+  },
+  "mts_exact_debrissettle_dirtsmall3": {
+    "sounds": [
+      "create_the_air_wars:mts_exact_debrissettle_dirtsmall3"
+    ]
+  },
+  "mts_exact_debrissettle_sand0": {
+    "sounds": [
+      "create_the_air_wars:mts_exact_debrissettle_sand0"
+    ]
+  },
+  "mts_exact_debrissettle_sand1": {
+    "sounds": [
+      "create_the_air_wars:mts_exact_debrissettle_sand1"
+    ]
+  },
+  "mts_exact_debrissettle_sand2": {
+    "sounds": [
+      "create_the_air_wars:mts_exact_debrissettle_sand2"
+    ]
+  },
+  "mts_exact_debrissettle_sandsmall0": {
+    "sounds": [
+      "create_the_air_wars:mts_exact_debrissettle_sandsmall0"
+    ]
+  },
+  "mts_exact_debrissettle_sandsmall1": {
+    "sounds": [
+      "create_the_air_wars:mts_exact_debrissettle_sandsmall1"
+    ]
+  },
+  "mts_exact_debrissettle_sandsmall2": {
+    "sounds": [
+      "create_the_air_wars:mts_exact_debrissettle_sandsmall2"
+    ]
+  },
+  "mts_exact_debrissettle_stonesmall0": {
+    "sounds": [
+      "create_the_air_wars:mts_exact_debrissettle_stonesmall0"
+    ]
+  },
+  "mts_exact_debrissettle_stonesmall1": {
+    "sounds": [
+      "create_the_air_wars:mts_exact_debrissettle_stonesmall1"
+    ]
+  },
+  "mts_exact_debrissettle_stonesmall2": {
+    "sounds": [
+      "create_the_air_wars:mts_exact_debrissettle_stonesmall2"
+    ]
+  },
+  "mts_exact_debrissettle_stonesmall3": {
+    "sounds": [
+      "create_the_air_wars:mts_exact_debrissettle_stonesmall3"
+    ]
+  },
+  "mts_exact_debrissettle_water0": {
+    "sounds": [
+      "create_the_air_wars:mts_exact_debrissettle_water0"
+    ]
+  },
+  "mts_exact_debrissettle_water1": {
+    "sounds": [
+      "create_the_air_wars:mts_exact_debrissettle_water1"
+    ]
+  },
+  "mts_exact_debrissettle_woodlarge0": {
+    "sounds": [
+      "create_the_air_wars:mts_exact_debrissettle_woodlarge0"
+    ]
+  },
+  "mts_exact_debrissettle_woodlarge1": {
+    "sounds": [
+      "create_the_air_wars:mts_exact_debrissettle_woodlarge1"
+    ]
+  },
+  "mts_exact_debrissettle_woodlarge2": {
+    "sounds": [
+      "create_the_air_wars:mts_exact_debrissettle_woodlarge2"
+    ]
+  },
+  "mts_exact_explosion_distant": {
+    "sounds": [
+      "create_the_air_wars:mts_exact_explosion_distant"
+    ]
+  },
+  "mts_exact_explosion_distant_heavy": {
+    "sounds": [
+      "create_the_air_wars:mts_exact_explosion_distant_heavy"
+    ]
+  },
+  "mts_exact_explosion_distant_heavy1": {
+    "sounds": [
+      "create_the_air_wars:mts_exact_explosion_distant_heavy1"
+    ]
+  },
+  "mts_exact_explosion_distant_heavy2": {
+    "sounds": [
+      "create_the_air_wars:mts_exact_explosion_distant_heavy2"
+    ]
+  },
+  "mts_exact_explosion_distant2": {
+    "sounds": [
+      "create_the_air_wars:mts_exact_explosion_distant2"
+    ]
+  },
+  "mts_exact_explosion_distant3": {
+    "sounds": [
+      "create_the_air_wars:mts_exact_explosion_distant3"
+    ]
+  },
+  "mts_exact_explosion_distant4": {
+    "sounds": [
+      "create_the_air_wars:mts_exact_explosion_distant4"
+    ]
+  },
+  "mts_exact_explosion_heavy": {
+    "sounds": [
+      "create_the_air_wars:mts_exact_explosion_heavy"
+    ]
+  },
+  "mts_exact_explosion_heavy1": {
+    "sounds": [
+      "create_the_air_wars:mts_exact_explosion_heavy1"
+    ]
+  },
+  "mts_exact_explosion1": {
+    "sounds": [
+      "create_the_air_wars:mts_exact_explosion1"
+    ]
+  },
+  "mts_exact_explosion2": {
+    "sounds": [
+      "create_the_air_wars:mts_exact_explosion2"
+    ]
+  },
+  "mts_exact_explosion3": {
+    "sounds": [
+      "create_the_air_wars:mts_exact_explosion3"
+    ]
+  },
+  "mts_exact_explosion4": {
+    "sounds": [
+      "create_the_air_wars:mts_exact_explosion4"
+    ]
+  },
+  "mts_exact_rocketboom_distant0": {
+    "sounds": [
+      "create_the_air_wars:mts_exact_rocketboom_distant0"
+    ]
+  },
+  "mts_exact_rocketboom_distant1": {
+    "sounds": [
+      "create_the_air_wars:mts_exact_rocketboom_distant1"
+    ]
+  },
+  "mts_exact_rocketboom_distant2": {
+    "sounds": [
+      "create_the_air_wars:mts_exact_rocketboom_distant2"
+    ]
+  },
+  "mts_exact_rocketboom_distant3": {
+    "sounds": [
+      "create_the_air_wars:mts_exact_rocketboom_distant3"
+    ]
+  },
+  "mts_exact_rocketboom0": {
+    "sounds": [
+      "create_the_air_wars:mts_exact_rocketboom0"
+    ]
+  },
+  "mts_exact_rocketboom1": {
+    "sounds": [
+      "create_the_air_wars:mts_exact_rocketboom1"
+    ]
+  },
+  "mts_exact_rocketboom2": {
+    "sounds": [
+      "create_the_air_wars:mts_exact_rocketboom2"
+    ]
+  },
+  "mts_exact_rocketboom3": {
+    "sounds": [
+      "create_the_air_wars:mts_exact_rocketboom3"
+    ]
+  }
+}

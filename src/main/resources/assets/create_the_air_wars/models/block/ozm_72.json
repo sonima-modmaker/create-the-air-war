@@ -1,0 +1,9 @@
+{
+  "parent": "create_the_air_wars:custom/c-v25",
+  "textures": {
+    "all": "create_the_air_wars:block/tripmine",
+    "particle": "create_the_air_wars:block/tripmine",
+    "0": "create_the_air_wars:block/tripmine"
+  },
+  "render_type": "solid"
+}

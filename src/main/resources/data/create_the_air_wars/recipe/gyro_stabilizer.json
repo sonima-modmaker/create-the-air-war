@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " A ",
+    " B ",
+    " C "
+  ],
+  "key": {
+    "A": {
+      "item": "create:flywheel"
+    },
+    "B": {
+      "item": "create_the_air_wars:chip"
+    },
+    "C": {
+      "item": "create:andesite_casing"
+    }
+  },
+  "result": {
+    "id": "create_the_air_wars:gyro_stabilizer",
+    "count": 1
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "create_the_air_wars:custom/grenade",
+  "textures": {
+    "0": "create_the_air_wars:block/grenade",
+    "particle": "create_the_air_wars:item/grenade"
+  }
+}

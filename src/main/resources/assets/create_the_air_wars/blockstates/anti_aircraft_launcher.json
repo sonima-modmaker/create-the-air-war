@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "create_the_air_wars:block/anti_aircraft_launcher" },
+    "facing=south": { "model": "create_the_air_wars:block/anti_aircraft_launcher", "y": 180 },
+    "facing=west": { "model": "create_the_air_wars:block/anti_aircraft_launcher", "y": 270 },
+    "facing=east": { "model": "create_the_air_wars:block/anti_aircraft_launcher", "y": 90 }
+  }
+}

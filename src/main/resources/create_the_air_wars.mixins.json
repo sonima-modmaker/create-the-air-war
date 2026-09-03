@@ -1,0 +1,46 @@
+{
+  "required": true,
+  "package": "hi.mixin",
+  "plugin": "hi.mixin.CreateTheAirWarsMixinPlugin",
+  "refmap": "create_the_air_wars.refmap.json",
+  "compatibilityLevel": "JAVA_21",
+  "minVersion": "0.8",
+  "client": [
+    "camera.BlockEntityRenderDispatcherMixin",
+    "camera.CameraAccessor",
+	"camera.ClientChunkCacheAccessor",
+	"camera.ClientChunkCacheMixin",
+	"camera.ClientLevelXaeroRadarMixin",
+    "camera.GameRendererAccessor",
+    "camera.GameRendererFpvMixin",
+    "camera.GuiFpvMixin",
+    "camera.LevelRendererAccessor",
+    "camera.LevelRendererDirtyMixin",
+    "camera.LevelRendererStateMixin",
+    "camera.MinecraftAccessor",
+    "camera.MouseHandlerMixin",
+	"camera.ParticleEngineAccessor",
+    "camera.SectionOcclusionGraphMixin",
+    "camera.VanillaSubLevelRenderDispatcherMixin",
+    "camera.ViewAreaAccessor",
+    "creativetab.CreativeModeInventoryScreenIconMixin",
+    "performance.ClientApiMixin",
+    "performance.EntityRenderDispatcherMixin",
+    "performance.FlywheelBackendManagerMixin",
+    "performance.LodRendererMixin",
+    "performance.OptionsMixin",
+    "performance.ParticleEngineMixin",
+    "performance.SodiumRenderSectionManagerMixin"
+  ],
+  "mixins": [
+    "camera.ChunkMapAccessor",
+    "camera.ChunkMapMixin",
+    "camera.TrackedEntityMixin",
+    "creativetab.CreativeModeTabMixin",
+    "projectile.AbstractArrowChunkLoadingMixin",
+    "projectile.EntityProjectileChunkCleanupMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

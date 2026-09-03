@@ -1,0 +1,9 @@
+{
+  "parent": "create_the_air_wars:custom/aim9x",
+  "textures": {
+    "all": "create_the_air_wars:block/aim9x",
+    "particle": "create_the_air_wars:block/aim9x",
+    "0": "create_the_air_wars:block/aim9x"
+  },
+  "render_type": "cutout"
+}

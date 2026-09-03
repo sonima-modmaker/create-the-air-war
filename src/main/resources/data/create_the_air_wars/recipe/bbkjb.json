@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:iron_bars"
+    },
+    "b": {
+      "item": "create_the_air_wars:explosive"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "create_the_air_wars:ozm_72"
+  }
+}

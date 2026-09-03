@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "item": "create_the_air_wars:titaniumingot"
+    }
+  ],
+  "results": [
+    {
+      "id": "create_the_air_wars:titaniumsheet"
+    }
+  ]
+}

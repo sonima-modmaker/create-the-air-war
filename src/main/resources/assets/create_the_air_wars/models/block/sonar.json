@@ -1,0 +1,9 @@
+{
+  "parent": "create_the_air_wars:custom/sonar",
+  "textures": {
+    "all": "create_the_air_wars:block/sonar",
+    "particle": "create_the_air_wars:block/sonar",
+    "1": "create_the_air_wars:block/sonar"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "experience": 1.0,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "create_the_air_wars:rawtitanium"
+  },
+  "result": {
+    "id": "create_the_air_wars:titaniumingot"
+  }
+}

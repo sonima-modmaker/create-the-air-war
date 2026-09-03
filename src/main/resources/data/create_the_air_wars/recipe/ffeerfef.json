@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    " c ",
+    " d "
+  ],
+  "key": {
+    "a": {
+      "item": "create_the_air_wars:titaniumingot"
+    },
+    "b": {
+      "item": "create_the_air_wars:activator"
+    },
+    "c": {
+      "item": "create_the_air_wars:miniexplzv"
+    },
+    "d": {
+      "item": "create_the_air_wars:rocketengine"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "create_the_air_wars:nine_k_119m"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    "ade",
+    "abc"
+  ],
+  "key": {
+    "a": {
+      "item": "create_the_air_wars:titaniumingot"
+    },
+    "b": {
+      "item": "create_the_air_wars:ampilifier"
+    },
+    "c": {
+      "item": "create_the_air_wars:antenna"
+    },
+    "d": {
+      "item": "create_the_air_wars:display"
+    },
+    "e": {
+      "item": "create_the_air_wars:wires"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "create_the_air_wars:sonar"
+  }
+}

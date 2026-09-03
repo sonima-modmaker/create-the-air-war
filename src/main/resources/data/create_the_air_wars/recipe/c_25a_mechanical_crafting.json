@@ -1,0 +1,35 @@
+{
+  "type": "create:mechanical_crafting",
+  "accept_mirrored": true,
+  "category": "misc",
+  "pattern": [
+    "ABA",
+    "CDC",
+    "CDC",
+    "EFE"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:red_dye"
+    },
+    "B": {
+      "item": "create_the_air_wars:activator"
+    },
+    "C": {
+      "item": "create_the_air_wars:titaniumsheet"
+    },
+    "D": {
+      "item": "create_the_air_wars:explosive"
+    },
+    "E": {
+      "item": "create_the_air_wars:titaniumingot"
+    },
+    "F": {
+      "item": "create_the_air_wars:rocketengine"
+    }
+  },
+  "result": {
+    "id": "create_the_air_wars:c_25a",
+    "count": 1
+  }
+}

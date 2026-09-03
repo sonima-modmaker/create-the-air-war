@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ABA",
+    "CDC",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "create_the_air_wars:titaniumingot"
+    },
+    "B": {
+      "item": "create:transmitter"
+    },
+    "C": {
+      "item": "create_the_air_wars:wires"
+    },
+    "D": {
+      "item": "create_the_air_wars:display"
+    }
+  },
+  "result": {
+    "id": "create_the_air_wars:monitor",
+    "count": 1
+  }
+}

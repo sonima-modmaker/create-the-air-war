@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "create_the_air_wars:block/monitor"
+    },
+    "facing=south": {
+      "model": "create_the_air_wars:block/monitor",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "create_the_air_wars:block/monitor",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "create_the_air_wars:block/monitor",
+      "y": 90
+    }
+  }
+}

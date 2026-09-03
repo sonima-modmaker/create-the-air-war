@@ -1,0 +1,21 @@
+{
+  "credit": "Made with Blockbench",
+  "textures": {
+    "1": "create_the_air_wars:block/camera",
+    "particle": "create_the_air_wars:block/camera"
+  },
+  "elements": [
+    {
+      "from": [2, 0, 2],
+      "to": [14, 2, 14],
+      "faces": {
+        "north": {"uv": [9.5, 15, 15.5, 16], "texture": "#1"},
+        "east": {"uv": [9.5, 15, 15.5, 16], "texture": "#1"},
+        "south": {"uv": [9.5, 15, 15.5, 16], "texture": "#1"},
+        "west": {"uv": [9.5, 15, 15.5, 16], "texture": "#1"},
+        "up": {"uv": [9.5, 8.5, 15.5, 14.5], "texture": "#1"},
+        "down": {"uv": [9.5, 8.5, 15.5, 14.5], "texture": "#1"}
+      }
+    }
+  ]
+}

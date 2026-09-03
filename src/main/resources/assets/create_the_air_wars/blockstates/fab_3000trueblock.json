@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "create_the_air_wars:block/fab_3000trueblock",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "create_the_air_wars:block/fab_3000trueblock"
+    },
+    "axis=z": {
+      "model": "create_the_air_wars:block/fab_3000trueblock",
+      "x": 90
+    }
+  }
+}

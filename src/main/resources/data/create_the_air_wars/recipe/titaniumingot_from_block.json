@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "create_the_air_wars:titaniumblock"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "create_the_air_wars:titaniumingot"
+  }
+}

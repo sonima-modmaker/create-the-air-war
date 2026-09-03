@@ -1,0 +1,9 @@
+{
+  "parent": "create_the_air_wars:custom/rim-7",
+  "textures": {
+    "all": "create_the_air_wars:block/rim-7",
+    "particle": "create_the_air_wars:block/rim-7",
+    "0": "create_the_air_wars:block/rim-7"
+  },
+  "render_type": "cutout"
+}

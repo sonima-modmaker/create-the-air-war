@@ -1,0 +1,60 @@
+### Gradle ###
+.gradle
+build/
+!gradle/wrapper/gradle-wrapper.jar
+!**/src/**/build/
+
+### IntelliJ IDEA ###
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+!**/src/**/out/
+
+.run/
+
+### Eclipse ###
+.apt_generated
+.classpath
+.eclipse/
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/**/bin/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+
+### Minecraft Modding ###
+run/
+!**/src/**/run/
+**/src/generated/**/.cache/
+repo/
+!**/src/**/repo/
+
+# Local development/runtime data
+runs/
+archive/
+newitems/
+sable_extracted/
+scratch/
+X25ML/
+.gradle-user-home*/
+*.log
+*.zip
+build_output.txt
+
+# Loose import/reference files kept outside src
+/c-75.json
+/C-75.png
+/lock.ogg
+/search.ogg
+/GYRO_STABILIZER_RENDER_GUIDE.txt
+/TEMPLATE_LICENSE.txt

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "SCS",
+    " R "
+  ],
+  "key": {
+    "I": {
+      "item": "create_the_air_wars:titaniumingot"
+    },
+    "S": {
+      "item": "create_the_air_wars:titaniumsheet"
+    },
+    "C": {
+      "item": "create_the_air_wars:chip"
+    },
+    "R": {
+      "item": "create_the_air_wars:machinegun"
+    }
+  },
+  "result": {
+    "id": "create_the_air_wars:minigun",
+    "count": 1
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "create_the_air_wars:titaniumingot"
+    }
+  },
+  "result": {
+    "count": 9,
+    "id": "create_the_air_wars:titaniumnugget"
+  }
+}
