@@ -61,7 +61,7 @@ public class CreateTheAirWarsModSounds {
     public static final DeferredHolder<SoundEvent, SoundEvent> FDGDG = reg("fdgdg");
     public static final DeferredHolder<SoundEvent, SoundEvent> VZRIV = reg("vzriv");
     public static final DeferredHolder<SoundEvent, SoundEvent> ZAPUSK = reg("zapusk");
-    public static final DeferredHolder<SoundEvent, SoundEvent> VZRIVC_8 = reg("vzrivc-8");
+    public static final DeferredHolder<SoundEvent, SoundEvent> EXPLOSION = reg("explosion");
     public static final DeferredHolder<SoundEvent, SoundEvent> FIRE_AUTOCANNON = reg("fire_autocannon");
     public static final DeferredHolder<SoundEvent, SoundEvent> FIRE_BIG_CANNON = reg("fire_big_cannon");
     public static final DeferredHolder<SoundEvent, SoundEvent> SHELLEXP1 = reg("shellexp1");

@@ -339,8 +339,6 @@ public final class CreativeTabContentManager {
             || "thtrue".equals(path)
             || "fab_3000trueblock".equals(path)
             || "test".equals(path)
-            || "c_9emptyrocketbox".equals(path)
-            || "c_9_rocketbox".equals(path)
             || "efssdfsdf".equals(path)
             || "dsfsdsf".equals(path)
             || "gtdfdgf".equals(path)

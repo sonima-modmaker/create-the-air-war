@@ -138,7 +138,7 @@ public class Ninek119mactvbultEntity extends AbstractArrow implements ItemSuppli
 	@Override
 	public ExplosionUtils.ProjectileExplosionProfile getExplosionProfile() {
 		return new ExplosionUtils.ProjectileExplosionProfile(
-			3f, true, 1.0, "create_the_air_wars:vzrivc-8", SoundSource.NEUTRAL, 2f, 1f,
+			3f, true, 1.0, "create_the_air_wars:explosion", SoundSource.NEUTRAL, 2f, 1f,
 			CreateTheAirWarsModParticleTypes.EXLOSION.get(), 6, 1.5, 1.5, 1.5, 0.4, 3, false
 		);
 	}
