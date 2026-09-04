@@ -48,11 +48,11 @@
       }
     ]
   },
-  "vzrivc-8": {
+  "explosion": {
     "sounds": [
       {
-        "name": "create_the_air_wars:rocket_explosion_far",
-        "type": "event"
+        "name": "create_the_air_wars:explosion",
+        "stream": false
       }
     ]
   },

@@ -8,7 +8,7 @@ import net.minecraft.world.level.LevelAccessor;
 
 public class CsdsKoghdaSnariadPopadaietVBlokProcedure {
     private static final ExplosionUtils.ProjectileExplosionProfile DEFAULT_PROFILE = new ExplosionUtils.ProjectileExplosionProfile(
-        3f, true, 1.0, "create_the_air_wars:vzrivc-8", SoundSource.NEUTRAL, 2f, 1f,
+        3f, true, 1.0, "create_the_air_wars:explosion", SoundSource.NEUTRAL, 2f, 1f,
         CreateTheAirWarsModParticleTypes.EXLOSION.get(), 4, 1.2, 1.2, 1.2, 0.35, 3, false
     );
 
