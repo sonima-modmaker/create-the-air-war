@@ -83,7 +83,7 @@ public final class ExplosionUtils {
         "create_the_air_wars:explotion",
         "create_the_air_wars:fdgdg",
         "create_the_air_wars:vzriv",
-        "create_the_air_wars:vzrivc-8",
+        "create_the_air_wars:explosion",
         "create_the_air_wars:shellexp1",
         "create_the_air_wars:shellexp2",
         "create_the_air_wars:shellex3",
