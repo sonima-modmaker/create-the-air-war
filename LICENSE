@@ -1,59 +1,7 @@
-Unreal Team License
+Create: The Air War is free software licensed under the GNU General Public
+License, version 3.0 (GPL-3.0-only).
 
+You may redistribute and/or modify the source under the terms published by the
+Free Software Foundation at https://www.gnu.org/licenses/gpl-3.0.html.
 
-EN:
-Date: 2026‑06‑19
-
-
-1. Copyright
-   All rights to this work and its contents belong to Unreal Team (hereinafter referred to as «the Author»).
-
-
-2. Distribution Terms
-   2.1. This work is distributed free of charge.
-   2.2. You are allowed to use the work in personal and non‑commercial projects.
-   2.3. You are allowed to use the work in videos, livestreams, or other content, provided the work name is credited.
-   2.4. Selling the work or any part of it, as well as including it in paid collections, is prohibited without the Author’s written permission.
-
-
-3. Modifications and Adaptations
-   3.1. You are allowed to modify the work for personal use.
-   3.2. Publishing modified or derivative versions of the work is only allowed if the original author and the original work name are clearly credited.
-
-
-4. Disclaimer
-   This work is provided «as is» without any warranties.
-   The Author is not responsible for any possible damage caused by the use of this work.
-
-5. Other
-   By using this work, you agree to the terms of this license.
-
-
-RU:
-Unreal Team License
-
-Дата: 2026‑06‑19
-
-
-1. Авторские права
-   Все права на данное произведение и его содержимое принадлежат Unreal Team (далее — Автор).
-
-
-2. Условия распространения
-   2.1. Произведение распространяется бесплатно.
-   2.2. Разрешено использовать произведение в личных и некоммерческих проектах.
-   2.3. Разрешено использовать произведение в видеороликах и прямых трансляциях с указанием названия произведения.
-   2.4. Запрещается продавать произведение или его часть, а также включать в платные сборники без письменного разрешения Автора.
-
-
-3. Модификации и адаптации
-   3.1. Разрешено изменять произведение для личного использования.
-   3.2. Публикация изменённых или производных версий произведения допускается только с указанием оригинального автора и названием оригинального произведения.
-
-4. Ответственность
-   Произведение предоставляется «как есть» без каких‑либо гарантий.
-   Автор не несёт ответственности за любой возможный ущерб, вызванный использованием произведения.
-
-
-5. Прочее
-   Используя данное произведение, вы соглашаетесь с условиями этой лицензии.
+SPDX-License-Identifier: GPL-3.0-only
