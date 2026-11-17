@@ -1,5 +1,7 @@
 package hi.mixin.camera;
 
+import dev.ryanhcode.sable.api.sublevel.SubLevelContainer;
+
 import net.minecraft.client.multiplayer.ClientChunkCache;
 import net.minecraft.client.multiplayer.ClientLevel;
 import net.minecraft.nbt.CompoundTag;
@@ -59,6 +61,10 @@ public abstract class ClientChunkCacheMixin {
                                         CallbackInfoReturnable<LevelChunk> cir) {
         long key = ChunkPos.asLong(x, z);
         ClientLevel level = ((ClientChunkCacheAccessor) this).ctaw$getLevel();
+        // Sable registers its own plot chunks; leave those packets to it.
+        SubLevelContainer plots = SubLevelContainer.getContainer(level);
+        if (plots != null && plots.inBounds(x, z)) return;
+
         if (ctaw$inPrimaryRange(x, z)) {
             LevelChunk oldRemote = ctaw$remoteCameraChunks.remove(key);
             if (oldRemote != null) level.unload(oldRemote);
